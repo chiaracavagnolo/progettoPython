@@ -40,9 +40,3 @@ Il dataset utilizzato è usa_rain_prediction_dataset_2024_2025.csv. Questo conti
 - Mescolamento: Il dataset è stato mescolato per evitare che le città siano raggruppate insieme.
 - Esportazione: Il dataset pulito è stato esportato come "cleaned_usa_rain_dataset.csv".
 
-## Installazione
-
-Per eseguire il progetto, assicurati di avere installato le seguenti librerie Python:
-
-```bash
-pip install pandas numpy matplotlib scikit-learn
